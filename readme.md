@@ -19,11 +19,12 @@ Git & GitHub (Version Control)
 Repository Structure
 
 vanilla-steel-project
+
+ task_1  
+ task_2              
+ task_3          
+ README.md               
  
- task_1                # (Optional) Python scripts for data cleaning, processing
- task_2             # dbt models 
- task_3          # Jupyter Notebook (if any)
- README.md               # Setup and execution instructions
 
 ** **Data Processing Pipeline****
 
