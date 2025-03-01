@@ -20,9 +20,9 @@ Repository Structure
 
 vanilla-steel-project
 
- task_1  
- task_2              
- task_3          
+ task_1  -  cleaning and transformed the dataset to biq_query
+ task_2   - created dbt models for visulisation           
+ task_3   - created reccomendations table in biq_query      
  README.md               
  
 
