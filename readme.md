@@ -25,6 +25,7 @@ vanilla-steel-project
  task_2   - created dbt models for visulisation           
  
  task_3   - created reccomendations table in biq_query      
+ 
  README.md               
  
 
