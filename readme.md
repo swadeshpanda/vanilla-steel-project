@@ -16,13 +16,13 @@ Jupyter Notebook (Interactive Code Development)
 
 Git & GitHub (Version Control)
 
-📂 Repository Structure
+Repository Structure
 
-📂 vanilla-steel-project/
-│── 📂 task_1/                # (Optional) Python scripts for data cleaning, processing
-│── 📂 task_2/             # dbt models 
-│── 📂 task_3/           # Jupyter Notebook (if any)
-│── README.md               # Setup and execution instructions
+vanilla-steel-project/
+ task_1/                # (Optional) Python scripts for data cleaning, processing
+ task_2/             # dbt models 
+ task_3/           # Jupyter Notebook (if any)
+ README.md               # Setup and execution instructions
 
 ** **Data Processing Pipeline****
 
